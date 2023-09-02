@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/translations">
+        <file>BH_ru.qm</file>
+        <file>qt_ru.qm</file>
+        <file>qtbase_en.qm</file>
+    </qresource>
+    <qresource prefix="/images">
+        <file>logo.png</file>
+    </qresource>
+</RCC>
